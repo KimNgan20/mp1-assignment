@@ -4,13 +4,8 @@
  * DESCRIPTION: Membership protocol run by this Node.
  *              Definition of MP1Node class functions.
  **********************************/
-
 #include "MP1Node.h"
 #include <sstream>
-
-/*
- * Note: You can change/add any functions in MP1Node.{h,cpp}
- */
 
 /**
  * Overloaded Constructor of the MP1Node class
