@@ -1,9 +1,4 @@
-/**********************************
- * FILE NAME: MP1Node.cpp
- *
- * DESCRIPTION: Membership protocol run by this Node.
- *              Definition of MP1Node class functions.
- **********************************/
+
 #include "MP1Node.h"
 #include <sstream>
 
